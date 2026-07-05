@@ -36,4 +36,6 @@ LinkedIn: https://www.linkedin.com/in/AlonaNezhenska
 ### 1. Clone the repository
 ```bash id="cv1"
 git clone <your-repo-url>
-cd office-game
+cd src
+npm install
+npm start
